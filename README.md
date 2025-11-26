@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bio
+ttps://hackatime-badge.hackclub.com/U074APVQM7G/HackPHS-LeafLink
+https://github-readme-stats.hackclub.dev/api/wakatime?username=5999&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=highcontrast how can i add this to git hub
 
 <!--
 **Catflix01/Catflix01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
