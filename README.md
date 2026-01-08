@@ -1,5 +1,12 @@
-## Bio
-**![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5999&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=highcontrast)**
+## Hi There!
+My name is Ayaan Patel, a High schooler in NJ passionate about computer science
+
+Nowadays, I try to create and design projects that involves machine learning; Because I truely think I can create something revolutionary.
+
+Main tools that I use are Python, Typescript, and some Java.
+I am currently learning how making algorithms for USACO.
+Fun fact:
+My favorite video game is minecraft!
 <!--
 **Catflix01/Catflix01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
