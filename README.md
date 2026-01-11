@@ -5,8 +5,8 @@ Nowadays, I try to create and design projects that involves machine learning; Be
 
 Main tools that I use are Python, Typescript, and some Java.
 I am currently learning how making algorithms for USACO.
-Fun fact:
-My favorite video game is minecraft!
+
+Fun fact: My favorite video game is minecraft!
 <!--
 **Catflix01/Catflix01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
